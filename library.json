@@ -1,0 +1,14 @@
+{
+  "name": "ArdOSC",
+  "keywords": "osc, open sound control, udp, tcp, ip, communication, audio",
+  "description": "OpenSoundControl (OSC) Library for Arduino",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/recotana/ArdOSC.git"
+  },
+  "version": "2.1.0",
+  "examples": "Example/*/*.ino",
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
